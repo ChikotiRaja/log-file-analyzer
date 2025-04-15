@@ -1,4 +1,4 @@
-## 🔄 New Features
+## 🔄Features
 
 - ⏰ **Time Range Filtering**: Only analyze logs within a defined time window.
 - 🌍 **IP Geolocation**: Detect the location of IPs using `ip-api.com`.
